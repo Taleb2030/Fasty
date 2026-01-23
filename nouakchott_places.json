@@ -2,7 +2,7 @@
   {
     "id": 1,
     "canonicalName": "MiFiTT Institute",
-    "variants": ["MiFiTT Institute", "MiFiTT معهد"],
+    "variants": ["MiFiTT Institute", "MiFiTT معهد"],// Hello taleb
     "lat": 18.0917611,
     "lng": -15.9781673
   },
@@ -16,21 +16,11 @@
   {
     "id": 3,
     "canonicalName": "مقهى أمبريال",
-    "variants": ["مقهى أمبريال", "Makha embryal", "المقهى أمبريال"],//TALEB
+    "variants": ["مقهى أمبريال", "Makha embryal", "المقهى أمبريال",""],
     "lat": 18.10717,
     "lng": -15.980221
   },
-  {
-    "id": 4,
-    "canonicalName": "Maison d Hotes Jeloua",
-    "variants": [
-      "Maison d Hotes Jeloua",
-      "maison d hotes jeloua",
-      "بيت d فندق جيلوا"
-    ],
-    "lat": 18.1046571,
-    "lng": -15.9961789
-  },
+
   {
     "id": 5,
     "canonicalName": "مطعم فكتوريا",
@@ -106,10 +96,7 @@
     "id": 13,
     "canonicalName": "مطعم ومحلبة أمير",
     "variants": [
-      "مطعم ومحلبة أمير",
-      "المطعم ومحلبة أمير",
-      "restaurant et mahlebet Amira"
-    ],
+      "مطعم ومحلبة أمير", "المطعم ومحلبة أمير", "restaurant et mahlebet Amira" ],
     "lat": 18.0735411,
     "lng": -15.9582339
   },
@@ -120,41 +107,11 @@
     "lat": 18.0735411,
     "lng": -15.9582339
   },
-  {
-    "id": 15,
-    "canonicalName": "تسلم",
-    "variants": ["تسلم", "التسلم"],
-    "lat": 18.0735411,
-    "lng": -15.9582339
-  },
+  
   {
     "id": 16,
     "canonicalName": "Havana Grill",
     "variants": ["Havana Grill", "havana grill", "Havanaشواء"],
-    "lat": 18.0735411,
-    "lng": -15.9582339
-  },
-  {
-    "id": 17,
-    "canonicalName": "chez keyna",
-    "variants": ["chez keyna", "مطعم كينا", "المطعم كينا"],
-    "lat": 18.0735411,
-    "lng": -15.9582339
-  },
-  {
-    "id": 18,
-    "canonicalName": "Pakistani hotel, restaurant and cafe",
-    "variants": [
-      "Pakistani hotel, restaurant and cafe",
-      "Pakistani فندق, مطعم and مقهى"
-    ],
-    "lat": 18.0735411,
-    "lng": -15.9582339
-  },
-  {
-    "id": 19,
-    "canonicalName": "Villa korrigan",
-    "variants": ["Villa korrigan", "فيلا korrigan", "فيلاkorrigan"],
     "lat": 18.0735411,
     "lng": -15.9582339
   },
@@ -175,12 +132,7 @@
   {
     "id": 22,
     "canonicalName": "مطعم أبو الجود",
-    "variants": [
-      "مطعم أبو الجود",
-      "المطعم أبو الجود",
-      "مطعم ابو الجود",
-      "restaurant abou Aljoud"
-    ],
+    "variants": [ "مطعم أبو الجود", "المطعم أبو الجود","restaurant abou Aljoud" ],
     "lat": 18.0742268,
     "lng": -15.9563213
   },
@@ -192,33 +144,17 @@
     "lng": -15.9598779
   },
   {
-    "id": 24,
-    "canonicalName": "ماوراء مدريد",
-    "variants": ["ماوراء مدريد", "الماوراء مدريد", "ماوراءمدريد"],
-    "lat": 18.07501929999999,
-    "lng": -15.96011150000001
-  },
-  {
     "id": 26,
     "canonicalName": "مطعم التوأم",
     "variants": [
-      "مطعم التوأم",
-      "مطعم التوام",
-      "المطعم التوأم",
-      "restaurant tewaam"
-    ],
+      "مطعم التوأم", "مطعم التوام", "المطعم التوأم", "restaurant tewaam" ],
     "lat": 18.0749982,
     "lng": -15.960625
   },
   {
     "id": 27,
     "canonicalName": "كينك يحي كوفي king yahya coffee",
-    "variants": [
-      "كينك يحي كوفي king yahya coffee",
-      "الكينك يحي كوفي",
-      "كينك يحي كوفي",
-      "king yahya coffee"
-    ],
+    "variants": [ "كينك يحي كوفي king yahya coffee", "الكينك يحي كوفي", "كينك يحي كوفي", "king yahya coffee" ],
     "lat": 18.076085,
     "lng": -15.9570505
   },
@@ -226,32 +162,21 @@
     "id": 28,
     "canonicalName": "Restaurant Cisse - مطعم سيسه",
     "variants": [
-      "Restaurant Cisse - مطعم سيسه",
-      "Restaurant Cisse ",
-      "المطعم سيسه",
-      "مطعم سيسه",
-      "restaurant cisse",
-      "مطعم Cisse"
-    ],
+      "Restaurant Cisse - مطعم سيسه", "Restaurant Cisse ", "المطعم سيسه", "مطعم سيسه", "restaurant cisse", "مطعم Cisse" ],
     "lat": 18.0767564,
     "lng": -15.9576607
   },
   {
     "id": 30,
     "canonicalName": "restaurant galaxyy",
-    "variants": [
-      "restaurant galaxyy",
-      "مطعم galaxyy",
-      "المطعم galaxyy",
-      "مطعمgalaxyy"
-    ],
+    "variants": [ "restaurant galaxyy", "مطعم galaxyy", "المطعم galaxyy", "مطعمgalaxyy" ],
     "lat": 18.0774305,
     "lng": -15.9582942
   },
   {
     "id": 31,
     "canonicalName": "Classico",
-    "variants": ["Classico", "classico"],
+    "variants": ["Classico", "classico", "كلاسيكو"],
     "lat": 18.0693496,
     "lng": -15.9580417
   },
@@ -259,24 +184,14 @@
     "id": 32,
     "canonicalName": "مطعم المطار",
     "variants": [
-      "مطعم المطار",
-      "restaurant Al Metar",
-      "restaurant Aeroport",
-      "Airport restaurant",
-      "Aeroport restaurant",
-      "المطعم المطار"
-    ],
+      "مطعم المطار", "restaurant Al Metar", "restaurant Aeroport", "Airport restaurant", "المطعم المطار" ],
     "lat": 18.0786154,
     "lng": -15.9547933
   },
   {
     "id": 33,
     "canonicalName": "مطعم دمشق الفلوجه",
-    "variants": [
-      "مطعم دمشق الفلوجه",
-      "restaurant demichik el valouje",
-      "المطعم دمشق الفلوجه"
-    ],
+    "variants": [ "مطعم دمشق الفلوجه", "restaurant demichik el valouje", "المطعم دمشق الفلوجه" ],
     "lat": 18.06829949999999,
     "lng": -15.9546309
   },
@@ -334,129 +249,77 @@
     "id": 42,
     "canonicalName": "Restaurant Al mahata",
     "variants": [
-      "Restaurant Al mahata",
-      "restaurant al mahata",
-      "مطعم Al mahata",
-      "المطعم Al mahata"
-    ],
+      "Restaurant Al mahata", "restaurant al mahata", "مطعم Al mahata", "المطعم Al mahata"],
     "lat": 18.074118,
     "lng": -15.948538
   },
   {
     "id": 43,
     "canonicalName": "مطعم المائدة",
-    "variants": [
-      "مطعم المائدة",
-      "المطعم المائدة",
-      "restaurant Maada",
-      "restaurant El-Maada"
-    ],
+    "variants": [ "مطعم المائدة", "المطعم المائدة", "restaurant Maada", "restaurant El-Maada" ],
     "lat": 18.0692696,
     "lng": -15.9492108
   },
   {
     "id": 44,
     "canonicalName": "مطعم دومينوز",
-    "variants": [
-      "مطعم دومينوز",
-      "المطعم دومينوز",
-      " restaurant Dominose",
-      " restaurant Macdo"
-    ],
+    "variants": [ "مطعم دومينوز", "المطعم دومينوز", " restaurant Dominose", " restaurant Macdo" ],
     "lat": 18.0746766,
     "lng": -15.9481543
   },
   {
     "id": 45,
     "canonicalName": "مطعم العربي Restaurant El-Arabi",
-    "variants": [
-      "Restaurant El-Arabi",
-      "مطعمالعربي",
-      "مطعم العربي",
-      "المطعم العربي",
-      "restaurant el arabi",
-      " Restaurant El-Arabi ",
-      "Restaurant Al-Arabi"
-    ],
+    "variants": [ "Restaurant El-Arabi", "مطعمالعربي", "مطعم العربي", "المطعم العربي", "restaurant el arabi", " Restaurant El-Arabi ", "Restaurant Al-Arabi" ],
     "lat": 18.0741466,
     "lng": -15.9480728
   },
   {
     "id": 46,
     "canonicalName": "PIZZA WELIYA",
-    "variants": [
-      "PIZZA WELIYA",
-      "pizza weliya",
-      "بيتزا WELIYA",
-      "البيتزا WELIYA"
-    ],
+    "variants": [ "PIZZA WELIYA",  "pizza weliya", "بيتزا WELIYA", "البيتزا WELIYA" ],
     "lat": 18.067916,
     "lng": -15.9666214
   },
   {
     "id": 47,
     "canonicalName": "مطعم One pizza",
-    "variants": [
-      "مطعم One pizza",
-      "المطعم One pizza",
-      "مطعمOnepizza",
-      "مطعم",
-      "المطعم",
-      "one pizza",
-      "One بيتزا"
-    ],
+    "variants": [ "مطعم One pizza", "المطعم One pizza", "مطعمOnepizza", "one pizza", "One بيتزا" ],
     "lat": 18.0740883,
     "lng": -15.9478291
   },
   {
     "id": 48,
     "canonicalName": "مطعم لندن للشوي",
-    "variants": [
-      "مطعم لندن للشوي",
-      "المطعم لندن للشوي",
-      "restaurant El-michwi",
-      "restaurant Al mouchwi"
-    ],
+    "variants": [ "مطعم لندن للشوي", "المطعم لندن للشوي", "restaurant El-michwi", "restaurant Al mouchwi" ],
     "lat": 18.0636374,
     "lng": -15.9570917
   },
   {
-    "id": 49,
-    "canonicalName": "نوتيلا",
-    "variants": ["نوتيلا", "النوتيلا"],
-    "lat": 18.074029,
-    "lng": -15.947765
-  },
-  {
     "id": 50,
     "canonicalName": "مطعم المغرب العربي",
-    "variants": ["مطعم المغرب العربي", "المطعم المغرب العربي"],
+    "variants": ["مطعم المغرب العربي", "المطعم المغرب العربي", "restaurant Makrib Arabic"],
     "lat": 18.0740335,
     "lng": -15.9477027
   },
   {
     "id": 51,
     "canonicalName": "مطعم ياسمين الشام",
-    "variants": ["مطعم ياسمين الشام", "مطعمياسمينالشام", "المطعم ياسمين الشام"],
+    "variants": ["مطعم ياسمين الشام","restaurant Yasemin Cham", "المطعم ياسمين الشام"],
     "lat": 18.0633944,
     "lng": -15.9571449
   },
   {
     "id": 52,
     "canonicalName": "مطعم خليجي ستايل",
-    "variants": ["مطعم خليجي ستايل", "المطعم خليجي ستايل", "مطعمخليجيستايل"],
+    "variants": ["مطعم خليجي ستايل", "المطعم خليجي ستايل","restaurant Khalij style "],
     "lat": 18.0744449,
     "lng": -15.9473573
   },
   {
     "id": 53,
     "canonicalName": "مطعم الأبرار",
-    "variants": [
-      "مطعم الأبرار",
-      "المطعم الأبرار",
-      "مطعم الابرار",
-      "مطعمالأبرار"
-    ],
+    "variants": ["مطعم الأبرار", "المطعم الأبرار", "Restaurant El-lebrar"],
     "lat": 18.0691719,
     "lng": -15.9479785
   },
@@ -464,12 +327,7 @@
     "id": 54,
     "canonicalName": "مقهى لاس دوناس",
     "variants": [
-      "مقهى لاس دوناس",
-      "مقةى لاس دوناس",
-      "المقهى لاس دوناس",
-      "مقهي لاس دوناس",
-      "مقهىلاسدوناس"
-    ],
+      "مقهى لاس دوناس", "مقةى لاس دوناس","المقهى لاس دوناس", "مقهي لاس دوناس", " Makha las dounas "],
     "lat": 18.0715734,
     "lng": -15.9470925
   },
@@ -477,66 +335,36 @@
     "id": 55,
     "canonicalName": "Restaurant Atar مطعم أطار للوجبات التقليدية",
     "variants": [
-      "Restaurant Atar مطعم أطار للوجبات التقليدية",
-      "Restaurant Atar مطعم أطار للوجبات التقليديه",
-      "الRestaurant Atar مطعم أطار للوجبات التقليدية",
-      "RestaurantAtarمطعمأطارللوجباتالتقليدية",
-      "Restaurant Atar مطعم اطار للوجبات التقليدية",
-      "مطعم أطار للوجبات التقليدية",
-      "المطعم أطار للوجبات التقليدية",
-      "مطعم أطار للوجبات التقليديه",
-      "مطعمأطارللوجباتالتقليدية",
-      "مطعم اطار للوجبات التقليدية",
-      "restaurant atar",
-      "مطعم أطار"
-    ],
+      "مطعم أطار للوجبات التقليدية"," RestaurantAtar ","مطعم أطار للوجبات التقليديه","restaurant atar","مطعم أطار" ],
     "lat": 18.0705072,
     "lng": -15.9469614
   },
   {
     "id": 58,
     "canonicalName": "Restaurant Elzhar",
-    "variants": [
-      "Restaurant Elzhar",
-      "restaurant elzhar",
-      "مطعم الزهر",
-      "المطعم الزهر",
-      "مطعمالزهر",
-      "مطعم الزةر"
-    ],
+    "variants": ["Restaurant Elzhar","restaurant elzhar", "مطعم الزهر","المطعم الزهر"],
     "lat": 18.0740927,
     "lng": -15.9459596
   },
   {
     "id": 59,
     "canonicalName": "KHALIFA FOOD",
-    "variants": ["KHALIFA FOOD", "khalifa food"],
+    "variants": ["KHALIFA FOOD", "khalifa food" , " وجبات خليفة " , " وجبات خليفه "],
     "lat": 18.0765823,
     "lng": -15.970371
   },
   {
     "id": 60,
     "canonicalName": "مطعم القدس",
-    "variants": ["مطعم القدس", "مطعمالقدس", "المطعم القدس"],
+    "variants": ["مطعم القدس", "مطعمالقدس", "المطعم القدس", " Restaurant Al-Qudes "," Restaurant El-Qudes"],
     "lat": 18.0739646,
     "lng": -15.9455271
   },
   {
     "id": 61,
-    "canonicalName": "Bouamatou Ophthalmological Hospital Foundation",
+    "canonicalName": "Bouamatou Hospital",
     "variants": [
-      "Bouamatou Ophthalmological Hospital Foundation",
-      "bouamatou ophthalmological hospital foundation",
-      "Bouamatou Ophthalmological مستشفى مؤسسة",
-      "BouamatouOphthalmologicalمستشفىمؤسسة",
-      "الBouamatou Ophthalmological مستشفى مؤسسة",
-      "Bouamatou Ophthalmological مستشفى مؤسسه",
-      "Bouamatou Ophthalmological مستشفي مؤسسة",
-      "Bouamatou Ophthalmological طب مؤسسة",
-      "الBouamatou Ophthalmological طب مؤسسة",
-      "Bouamatou Ophthalmological طب امؤسسة",
-      "الBouamatou Ophthalmological طب امؤسسة"
-    ],
+      "طب بوعماتو", "ABouamatou مؤسسة","Hospital Abouamatou"],
     "lat": 18.1053392,
     "lng": -15.9620782
   },
@@ -551,46 +379,21 @@
     "id": 63,
     "canonicalName": "Clinique EL INAYA",
     "variants": [
-      "Clinique EL INAYA",
-      "clinique el inaya",
-      "مصحة EL INAYA",
-      "مصحةELINAYA",
-      "مصحه EL INAYA",
-      "المصحة EL INAYA"
-    ],
+      "Clinique EL INAYA","clinique el inaya","مصحة EL INAYA", "مصحة العناية  "],
     "lat": 18.1024665,
     "lng": -15.9744691
   },
   {
     "id": 64,
-    "canonicalName": "مستشفى صداق",
-    "variants": [
-      "مستشفى صداق",
-      "مستشفىصداق",
-      "المستشفى صداق",
-      "مستشفي صداق",
-      "طب صداق",
-      "الطب صداق",
-      "طب اصداق",
-      "الطب اصداق"
-    ],
+    "canonicalName": "مستشفى الصداقة",
+    "variants": [" مستشفى الصداقة "," الطب الصداقة", "Hospital Sedaka ", "Hospital Esedaka "],
     "lat": 18.0735046,
     "lng": -15.9582443
   },
   {
-    "id": 65,
-    "canonicalName": "Service D'aide Médicale Urgentce",
-    "variants": [
-      "Service D'aide Médicale Urgentce",
-      "service d'aide médicale urgentce"
-    ],
-    "lat": 18.0735411,
-    "lng": -15.9582339
-  },
-  {
     "id": 66,
     "canonicalName": "عيادة الرفق",
-    "variants": ["عيادة الرفق", "العيادة الرفق", "عياده الرفق", "عيادةالرفق"],
+    "variants": ["عيادة الرفق","Clinique Erivik "],
     "lat": 18.0761003,
     "lng": -15.9569642
   },
@@ -598,135 +401,50 @@
     "id": 67,
     "canonicalName": "عيادة الرأفة الطبية",
     "variants": [
-      "عيادة الرأفة الطبية",
-      "العيادة الرأفة الطبية",
-      "عيادة الرافة الطبية",
-      "عيادةالرأفةالطبية",
-      "عياده الرأفة الطبية",
-      "عياده الرأفه الطبيه"
-    ],
+      "عيادة الرأفة الطبية","العيادة الرأفة الطبية", "عيادة الرافة الطبية", "عيادةالرأفةالطبية"," clinique Raava Tayba ", "Clinique Raava Tayba"],
     "lat": 18.0757511,
     "lng": -15.9539576
   },
   {
     "id": 68,
     "canonicalName": "مصحة الاطلس انواكشوط",
-    "variants": [
-      "مصحة الاطلس انواكشوط",
-      "المصحة الاطلس انواكشوط",
-      "مصحة الاطلس نواكشوط",
-      "مصحه الاطلس انواكشوط",
-      "مصحة الاطلس اانواكشوط",
-      "مصحةالاطلسانواكشوط"
-    ],
+    "variants": [ "مصحة الاطلس انواكشوط", "مصحة الاطلس نواكشوط","مصحة الاطلس اانواكشوط","Clinique EL-Atlas Noukchott " ],
     "lat": 18.0731627,
     "lng": -15.9530909
   },
   {
     "id": 69,
     "canonicalName": "عيادة السعادة CLINIQUE ESSAADA",
-    "variants": [
-      "عيادة السعادة CLINIQUE ESSAADA",
-      "عيادةالسعادةCLINIQUEESSAADA",
-      "عياده السعاده CLINIQUE ESSAADA",
-      "عياده السعادة CLINIQUE ESSAADA",
-      "العيادة السعادة CLINIQUE ESSAADA",
-      "عيادة السعادة",
-      "عياده السعاده",
-      "عيادةالسعادة",
-      "العيادة السعادة",
-      "عياده السعادة",
-      "clinique essaada",
-      "مصحة ESSAADA"
-    ],
+    "variants": [ "CLINIQUE ESSAADA", "العيادة السعادة CLINIQUE ESSAADA", "عيادة السعادة", "العيادة السعادة", "clinique essaada", "مصحة ESSAADA" ],
     "lat": 18.0755463,
     "lng": -15.9532672
   },
   {
     "id": 70,
     "canonicalName": "عيادة الخير",
-    "variants": ["عيادة الخير", "العيادة الخير", "عياده الخير", "عيادةالخير"],
+    "variants": ["عيادة الخير", " Clinique Al khayr ", " clinique el khayr "],
     "lat": 18.0755565,
     "lng": -15.9513506
   },
   {
     "id": 71,
     "canonicalName": "مصحة الرضى Clinique Erridha",
-    "variants": [
-      "مصحة الرضى Clinique Erridha",
-      "مصحه الرضى Clinique Erridha",
-      "مصحة الرضي Clinique Erridha",
-      "المصحة الرضى Clinique Erridha",
-      "مصحةالرضىCliniqueErridha",
-      "مصحة الرضي",
-      "مصحة الرضى",
-      "مصحةالرضى",
-      "المصحة الرضى",
-      "مصحه الرضى",
-      "clinique erridha",
-      "مصحة Erridha"
-    ],
+    "variants": [ " Clinique Erridha", "مصحة الرضي", "المصحة الرضى", "clinique erridha" ],
     "lat": 18.074882,
     "lng": -15.9507629
-  },
-  {
-    "id": 72,
-    "canonicalName": "Chantier CHU de Nouakchott",
-    "variants": ["Chantier CHU de Nouakchott", "chantier chu de nouakchott"],
-    "lat": 18.0795857,
-    "lng": -15.9624441
-  },
-  {
-    "id": 73,
-    "canonicalName": "ورشة بناء مستشفى الملك سلمان ومسجدجامع الرضاء",
-    "variants": [
-      "ورشة بناء مستشفى الملك سلمان ومسجدجامع الرضاء",
-      "ورشة بناء مستشفي الملك سلمان ومسجدجامع الرضاء",
-      "ورشه بناء مستشفى الملك سلمان ومسجدجامع الرضاء",
-      "ورشة بناء مستشفى الملك سلمان ومسيدجامع الرضاء",
-      "الورشة بناء مستشفى الملك سلمان ومسجدجامع الرضاء",
-      "ورشةبناءمستشفىالملكسلمانومسجدجامعالرضاء",
-      "ورشة بناء طب الملك سلمان ومسجدجامع الرضاء",
-      "الورشة بناء طب الملك سلمان ومسجدجامع الرضاء",
-      "ورشة بناء طب االملك سلمان ومسجدجامع الرضاء",
-      "الورشة بناء طب االملك سلمان ومسجدجامع الرضاء",
-      "ورشة بناء مستشفى الملك سلمان ولمسيدجامع الرضاء"
-    ],
-    "lat": 18.07992639999999,
-    "lng": -15.9619579
   },
   {
     "id": 74,
     "canonicalName": "CLINIQUE ELKHAIR مصحة الخير",
     "variants": [
-      "CLINIQUE ELKHAIR مصحة الخير",
-      "CLINIQUEELKHAIRمصحةالخير",
-      "CLINIQUE ELKHAIR مصحه الخير",
-      "الCLINIQUE ELKHAIR مصحة الخير",
-      "المصحة الخير",
-      "مصحه الخير",
-      "مصحة الخير",
-      "مصحةالخير",
-      "clinique elkhair",
-      "مصحة ELKHAIR"
-    ],
+      "CLINIQUE ELKHAIR", "المصحة الخير", "مصحه الخير", "مصحة الخير", "مصحةالخير", "clinique elkhair" ],
     "lat": 18.0753179,
     "lng": -15.9504945
   },
   {
     "id": 75,
-    "canonicalName": "Clinique Ibn Khaldoun مصحة إبن خلدون",
-    "variants": [
-      "Clinique Ibn Khaldoun مصحة إبن خلدون",
-      "الClinique Ibn Khaldoun مصحة إبن خلدون",
-      "CliniqueIbnKhaldounمصحةإبنخلدون",
-      "Clinique Ibn Khaldoun مصحة ابن خلدون",
-      "Clinique Ibn Khaldoun مصحه إبن خلدون",
-      "مصحة إبن خلدون",
-      "مصحه إبن خلدون",
-      "مصحةإبنخلدون",
-      "مصحة ابن خلدون",
-      "المصحة إبن خلدون",
+    "canonicalName": "Clinique Ibn Khaldoun  ",
+    "variants": [ "Clinique Ibn Khaldoun مصحة إبن خلدون",  "مصحة إبن خلدون", "المصحة إبن خلدون",
       "clinique ibn khaldoun"
     ],
     "lat": 18.0746922,
@@ -735,66 +453,14 @@
   {
     "id": 76,
     "canonicalName": "طب إيطاليا Tab Italia",
-    "variants": [
-      "طب إيطاليا Tab Italia",
-      "طبإيطالياTabItalia",
-      "الطب إيطاليا Tab Italia",
-      "طب ايطاليا Tab Italia",
-      "طب ايطاليا",
-      "الطب إيطاليا",
-      "طب إيطاليا",
-      "طبإيطاليا",
-      "tab italia"
-    ],
+    "variants": [ "طب ايطاليا", "الطب إيطاليا", "tab italia", " Hospital Italia "],
     "lat": 18.068233,
     "lng": -15.965675
   },
   {
-    "id": 77,
-    "canonicalName": "Al-Saddaaqah Hospital - HA",
-    "variants": [
-      "Al-Saddaaqah Hospital - HA",
-      "al-saddaaqah hospital - ha",
-      "Al-Saddaaqah مستشفى - HA",
-      "الAl-Saddaaqah مستشفى - HA",
-      "Al-Saddaaqahمستشفى-HA",
-      "Al-Saddaaqah مستشفي - HA",
-      "Al-Saddaaqah طب - HA",
-      "الAl-Saddaaqah طب - HA",
-      "Al-Saddaaqah طب ا- HA",
-      "الAl-Saddaaqah طب ا- HA"
-    ],
-    "lat": 18.0634847,
-    "lng": -15.95768489999999
-  },
-  {
-    "id": 78,
-    "canonicalName": "تصفية الكلي مستشفي الصداقه",
-    "variants": [
-      "تصفية الكلي مستشفي الصداقه",
-      "تصفية الكلي مستشفي الصداقة",
-      "تصفية الكلي مستشفى الصداقه",
-      "التصفية الكلي مستشفي الصداقه",
-      "تصفيةالكليمستشفيالصداقه",
-      "تصفيه الكلي مستشفي الصداقه",
-      "تصفية الكلي طب الصداقه",
-      "التصفية الكلي طب الصداقه",
-      "تصفية الكلي طب االصداقه",
-      "التصفية الكلي طب االصداقه"
-    ],
-    "lat": 18.062777,
-    "lng": -15.9572008
-  },
-  {
     "id": 79,
     "canonicalName": "مصحة قلوب محسنة الخيرية",
-    "variants": [
-      "مصحة قلوب محسنة الخيرية",
-      "المصحة قلوب محسنة الخيرية",
-      "مصحه قلوب محسنه الخيريه",
-      "مصحةقلوبمحسنةالخيرية",
-      "مصحه قلوب محسنة الخيرية"
-    ],
+    "variants": [ "مصحه قلوب محسنة الخيرية", "clinique koloub el mohsina  khayriye ", " clinique koloub el mohsina " ],
     "lat": 18.08268,
     "lng": -15.951868
   },
